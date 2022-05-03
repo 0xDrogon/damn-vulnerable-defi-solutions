@@ -4,6 +4,12 @@ This repository contains my solutions to the Damn Vulnerable DeFi challenges (ht
 
 You should always try to solve these challenges for yourself. Use this repository to compare solutions and to get hints.
 
+## Solutions
+
+[Unstoppable](./unstoppable/)
+
+[Naive receiver](./naive-receiver/)
+
 ## Credits
 
 Thank you [@tinchoabbate](https://github.com/tinchoabbate/) for these amazing challenges that allow the community to learn offensive security of DeFi smart contracts.
