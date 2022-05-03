@@ -1,2 +1,15 @@
-# damn-vulnerable-defi-solutions
-Solutions for Damn Vulnerable DeFi (https://github.com/tinchoabbate/damn-vulnerable-defi): "A set of challenges to hack implementations of DeFi in Ethereum."
+# Solutions for Damn Vulnerable DeFi
+
+This repository contains my solutions to the Damn Vulnerable DeFi challenges (https://damnvulnerabledefi.xyz/).
+
+You should always try to solve these challenges for yourself. Use this repository to compare solutions and to get hints.
+
+## Credits
+
+Thank you [@tinchoabbate](https://github.com/tinchoabbate/) for these amazing challenges that allow the community to learn offensive security of DeFi smart contracts.
+
+## Disclaimer
+
+"All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
+
+DO NOT USE IN PRODUCTION."
