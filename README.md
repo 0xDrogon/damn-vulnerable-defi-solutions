@@ -6,13 +6,13 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 ## Solutions
 
-[Unstoppable](./unstoppable/)
+[1. Unstoppable](./unstoppable/)
 
-[Naive receiver](./naive-receiver/)
+[2. Naive receiver](./naive-receiver/)
 
-[Truster](./truster/)
+[3. Truster](./truster/)
 
-[Side entrance](./side-entrance/)
+[4. Side entrance](./side-entrance/)
 
 ## Credits
 
