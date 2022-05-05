@@ -16,6 +16,8 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 [5. The rewarder](./the-rewarder/)
 
+[6. Selfie](./selfie/)
+
 ## Credits
 
 Thank you [@tinchoabbate](https://github.com/tinchoabbate/) for these amazing challenges that allow the community to learn offensive security of DeFi smart contracts.
