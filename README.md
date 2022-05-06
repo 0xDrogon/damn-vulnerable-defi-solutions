@@ -18,6 +18,8 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 [6. Selfie](./selfie/)
 
+[7. Compromised](./compromised/)
+
 ## Credits
 
 Thank you [@tinchoabbate](https://github.com/tinchoabbate/) for these amazing challenges that allow the community to learn offensive security of DeFi smart contracts.
