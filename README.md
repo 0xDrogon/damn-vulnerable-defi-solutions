@@ -22,6 +22,8 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 [8. Puppet](./puppet/)
 
+[9. Puppet v2](./puppet-v2/)
+
 ## Credits
 
 Thank you [@tinchoabbate](https://github.com/tinchoabbate/) for these amazing challenges that allow the community to learn offensive security of DeFi smart contracts.
