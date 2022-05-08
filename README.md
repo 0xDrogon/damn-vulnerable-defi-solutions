@@ -24,7 +24,7 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 [9. Puppet v2](./puppet-v2/)
 
-[9. Free rider](./free-rider/)
+[10. Free rider](./free-rider/)
 
 ## Credits
 
