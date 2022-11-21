@@ -1,6 +1,6 @@
 # Solutions for Damn Vulnerable DeFi
 
-This repository contains my solutions to the Damn Vulnerable DeFi challenges (https://damnvulnerabledefi.xyz/).
+This repository contains my solutions to Damn Vulnerable DeFi (https://damnvulnerabledefi.xyz/): "A set of challenges to learn offensive security of smart contracts in Ethereum".
 
 You should always try to solve these challenges for yourself. Use this repository to compare solutions and to get hints.
 
