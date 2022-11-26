@@ -1,4 +1,4 @@
-# Solutions for Damn Vulnerable DeFi
+# Solutions to Damn Vulnerable DeFi
 
 This repository contains my solutions to Damn Vulnerable DeFi: "A set of challenges to learn offensive security of smart contracts in Ethereum" (https://github.com/tinchoabbate/damn-vulnerable-defi).
 
