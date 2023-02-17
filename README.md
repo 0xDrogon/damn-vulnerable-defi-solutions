@@ -2,7 +2,7 @@
 
 This repository contains my solutions to Damn Vulnerable DeFi: "A set of challenges to learn offensive security of smart contracts in Ethereum" (https://github.com/tinchoabbate/damn-vulnerable-defi).
 
-You should always try to solve these challenges for yourself. Use this repository to compare solutions and to get hints.
+You should always try to solve these challenges on your own. Use this repository responsibly to compare solutions, to get hints and (hopefully) to learn.
 
 ## Solutions
 
